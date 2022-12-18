@@ -1,6 +1,5 @@
 ## Olá! sou o Rafael N Gomila 😊
 
-- 🌱 Estudando micro-services
 - 🔥 Em constante evolução
 
 <div align="center">
